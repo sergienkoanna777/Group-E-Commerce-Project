@@ -1,5 +1,19 @@
 # Wearables E-Commerce Project
 
+
+<div>
+  <h3>The result of teamwork:</h3>
+</div>
+<img src="./Picture3.jpg" alt="Image" width="auto">
+
+ <h3>
+    <a href="https://youtu.be/vHF4PuNy8t4">View Demo Here</a>
+  </h3>
+  
+  
+  
+ ## Project requirements:
+
 You will make use of _everything_ that you have learned thus far in the bootcamp to build an e-commerce app that will showcase all of the provided _wearables_ items.
 
 The stack is React.Js, Node.Js, and styled-components.
